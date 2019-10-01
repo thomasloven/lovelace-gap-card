@@ -10,13 +10,12 @@ A dummy card that is invisible, but has a height. It's most useful together with
 
 For installation instructions [see this guide](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins).
 
-The recommended type of this plugin is: `js`
+The recommended type of this plugin is: `module`.
 
-### If you are using [custom\_updater](https://github.com/custom-components/custom_updater):
 ```yaml
 resources:
-- url: /customcards/github/thomasloven/gap-card.js?track=true
-  type: js
+  url: /local/dummy-entity-row.js
+  type: module
 ```
 
 # Usage instructions
