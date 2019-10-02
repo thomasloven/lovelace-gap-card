@@ -16,7 +16,7 @@ The recommended type of this plugin is: `module`.
 
 ```yaml
 resources:
-  url: /local/dummy-entity-row.js
+  url: /local/gap-card.js
   type: module
 ```
 
