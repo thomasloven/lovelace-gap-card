@@ -1,6 +1,8 @@
 gap-card
 ========
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+
 A dummy card that is invisible, but has a height. It's most useful together with [layout-card](https://github.com/thomasloven/lovelace-layout-card)
 
 ![gap_card](https://user-images.githubusercontent.com/1299821/53566682-32b17a00-3b5d-11e9-9794-eace8ae8c0c2.jpg)
